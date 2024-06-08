@@ -54,7 +54,7 @@ import Footer from "./Job-Portal/Footer/Footer";
 
 import Payment from "./Job-Portal/Payment"
 // axios.defaults.baseURL = "http://localhost:8080";
-axios.defaults.baseURL = "https://itwalkin-backend.onrender.com";
+axios.defaults.baseURL = "https://itwalkin-backend-dev-release-08062024.onrender.com";
 const App = () => {
   return (
     <>
